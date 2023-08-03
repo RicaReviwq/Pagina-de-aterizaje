@@ -176,3 +176,17 @@ img{
     font-family: "Roboto";
 }
 /*SECCION 3*/
+
+/*FOOTER*/  
+
+.footer{ 
+    display: flex;
+    background: #1F2937;
+    justify-content: center;
+    padding: 30px;
+    gap: 16px;
+    font-family: "Roboto";
+    flex-wrap: wrap;
+    color: white;
+    font-size: 30px;  
+}
